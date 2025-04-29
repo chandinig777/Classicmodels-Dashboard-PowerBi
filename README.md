@@ -18,7 +18,7 @@ Months of service
 
 Rating, Education, Gender, Business Unit, and other features
 
-⚙️ Tools & Techniques
+⚙️ Tools & Techniques:
 Python: Core programming
 
 Pandas, NumPy: Data preprocessing and wrangling
@@ -33,7 +33,7 @@ SHAP: Feature importance explanation
 
 Statistical Tests: ANOVA, t-test, correlation analysis
 
-📈 Key Results
+📈 Key Results:
 Achieved ~99% R² score using Random Forest and XGBoost
 
 Identified Bonus, Total Sales, and Base Pay as top predictors of salary
